@@ -130,6 +130,7 @@ namespace MvcMovie.Controllers
             return View(movie);
         }
 
+
         // GET: Movies/Delete/5
         public ActionResult Delete(int? id)
         {
